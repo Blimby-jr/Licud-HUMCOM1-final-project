@@ -25,6 +25,7 @@
     <div class="card">
     <h2>Education</h2>
     <p>Current student at the University of Baguio</p>
+    <p>High School gradguate of Glenbard West</p>
     
    
     </div>
@@ -34,7 +35,6 @@
         <li>Project Management</li>
         <li>Community Engagement</li>
         <li>Strategic Planning</li>
-        <li>Cross-cultural Communication</li>
         <li>Conflict Resolution (still developing)</li>
     </ul>
     </div>
@@ -47,5 +47,24 @@
     </div>
     <div class="card">
 </div>
+<div class="card"> 
+<h2>Projects</h2>
+<ul>
+<li>First Project: <a href="file:///Z:/Licud/Brayden.html">Brayden.html</a>
+<li>Second Project: <a href="file:///Z:/Licud/lastname-midact2.html">Licud-midact2.html</a></li>
+<li>Act 2 Project: <a href="file:///Z:/Licud/Licud-act2.html">Licud-act2.htm</a></li>
+<li>Poem <a href="file:///Z:/Licud-lesson2/lastname-poem.html">Licud-poem.html</a></li>
+<li>Visionboard <a href="file:///Z:/Licud_Lesson5/Licud-visionboard.html">Licud-visionboard.html</a></li>
+<div class="card">
+<h2>Reflection</h2>
+ <h2>Look in a Mirror</h2>
+<h1>
+    -*+89
+</h1>
+</div>
+
+</ul>
+    </div>
+
 </body>
 </html>
